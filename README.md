@@ -14,9 +14,8 @@
 <h3>🔗Links</h3>
 <a href=https://prod-apnortheast-a.online.tableau.com/t/dasthagirigiri126e72bfde1a/views/crop_prod_db1/Dashboard1?:origin=card_share_link&:embed=n>Tableau Dashboard_1 Link</a><br>
 <a href=https://prod-apnortheast-a.online.tableau.com/t/dasthagirigiri126e72bfde1a/views/crop_prod_db1/Dashboard2?:origin=card_share_link&:embed=n>Tableau Dashboard_2 Link</a><br>
-<a href=https://prod-apnortheast-a.online.tableau.com/t/dasthagirigiri126e72bfde1a/views/crop_prod_db1/Dashboard3?:origin=card_share_link&:embed=n Link</a><br>
-<a href=https://public.tableau.com/app/profile/s.sreedhar/viz/crop_prod_db4/Dashboard4>Tableau Dashboard_4 Link</a><br>
-<a href=https://public.tableau.com/app/profile/s.sreedhar/viz/crop_prod_story/Story1>Tableau Story</a>
+<a href=https://prod-apnortheast-a.online.tableau.com/t/dasthagirigiri126e72bfde1a/views/crop_prod_db1/Dashboard3?:origin=card_share_link&:embed=n>Tableau Dashboard_3 Link</a><br>
+<a href=https://prod-apnortheast-a.online.tableau.com/t/dasthagirigiri126e72bfde1a/views/crop_prod_db1/Dashboard4?:origin=card_share_link&:embed=n>Tableau Dashboard_4 Link</a><br>
 <br>
 <br>
-↪S Sreedhar
+↪D Dasthagiri
